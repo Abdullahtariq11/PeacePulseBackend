@@ -2,8 +2,7 @@ Sure, here's a draft for your README file.
 
 # Peace Pulse (Backend)
 
-[![GitHub stars](about:sanitized)](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/AbdullahTariq096/PeacePulse-Backend/stargazers)
-[![GitHub license](about:sanitized)](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/AbdullahTariq096/PeacePulse-Backend/blob/main/LICENSE)
+
 
 ## Table of Contents
 
